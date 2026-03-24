@@ -3,14 +3,18 @@
 <!--
 **Sarthakprusty/Sarthakprusty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 🔭 Building an eCommerce platform using modern web technologies  
+- 🌱 Learning Next.js and improving full-stack skills  
+- 👯 Interested in collaborating on AI-based projects  
+- 🤔 Working on a financial management system (open to ideas)  
+- 💬 Strong in Laravel, APIs, and backend development  
+- 📫 Contact: Insta
+- ⚡ Astronomy enthusiast  
+
+## Interests
+- System Architecture
+
